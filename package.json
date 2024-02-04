@@ -1,7 +1,7 @@
 {
-	"name": "Pergament",
+	"name": "konva-reproduce",
 	"version": "0.1.0",
-	"description": "Pergament is a handwriting and drawing Plugin for Obsidian",
+	"description": "reproduce strange behaviour",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
